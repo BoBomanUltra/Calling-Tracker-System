@@ -1,0 +1,26 @@
+{"calls": [
+    {
+        "date": {
+            "month": "June",
+            "year": 2000,
+            "day": 1
+        },
+        "summary": "",
+        "phoneNumber": "1212",
+        "name": "unknown name",
+        "title": "No Title",
+        "status": "Receiving: Accepted"
+    },
+    {
+        "date": {
+            "month": "July",
+            "year": 2001,
+            "day": 2
+        },
+        "summary": "...",
+        "phoneNumber": "2323",
+        "name": "Jeremy",
+        "title": "Hello World",
+        "status": "Outgoing: Accepted"
+    }
+]}
